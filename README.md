@@ -48,7 +48,7 @@ $verificar
 Respuesta:
 ```
 🌱 Planta
-🌿 Resultado: Plátano
+🌿 Resultado: Comestible
 📊 Confianza: 95.32%
 ```
 ## ⚠️ Advertencia

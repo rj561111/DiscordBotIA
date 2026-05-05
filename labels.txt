@@ -1,0 +1,2 @@
+0 Comestible
+1 No Comestible
